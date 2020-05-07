@@ -1,0 +1,13 @@
+*.DS_Store
+*.idea
+node_modules*
+static*
+npm-debug.log
+dist/*
+idea/
+/.vscode/
+compiler_ts/*
+.history/
+true?{\"compact\":false}/
+.cache
+stats.json
